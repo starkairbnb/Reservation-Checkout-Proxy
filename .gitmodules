@@ -1,0 +1,9 @@
+[submodule "property_description"]
+	path = property_description
+	url = https://github.com/sharebnbhr/property_description
+[submodule "Reservation-Checkout"]
+	path = Reservation-Checkout
+	url = https://github.com/sharebnbhr/Reservation-Checkout
+[submodule "reviews"]
+	path = reviews
+	url = https://github.com/sharebnbhr/reviews

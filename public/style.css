@@ -1,0 +1,51 @@
+#navBarSS {
+  width: 100%;
+  height: 70px;
+}
+
+#spacer {
+  height: 300px;
+}
+
+#mainFlexbox {
+  display: flex;
+  flex-direction: row;
+  width: min-content;
+  margin: auto;
+}
+
+#right-col {
+  margin-top: 20px;
+}
+
+#bookings-master-container {
+  position: sticky;
+  top: 70px;
+  margin-left: 40px;
+}
+
+#screenshot-footer {
+  justify-content: center;
+  width: min-content;
+  margin: auto;
+}
+
+#navLeft {
+  height: 70px;
+  width: 540px;
+  margin-left: 15px
+}
+
+#navRight {
+  height: 70px;
+  width: 540px;
+  margin-right: 15px
+}
+
+#navContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+}
